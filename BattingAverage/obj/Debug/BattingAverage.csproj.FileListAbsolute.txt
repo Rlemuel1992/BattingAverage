@@ -1,0 +1,7 @@
+C:\Users\Ronad\source\repos\BattingAverage\BattingAverage\bin\Debug\BattingAverage.exe.config
+C:\Users\Ronad\source\repos\BattingAverage\BattingAverage\bin\Debug\BattingAverage.exe
+C:\Users\Ronad\source\repos\BattingAverage\BattingAverage\bin\Debug\BattingAverage.pdb
+C:\Users\Ronad\source\repos\BattingAverage\BattingAverage\obj\Debug\BattingAverage.csprojAssemblyReference.cache
+C:\Users\Ronad\source\repos\BattingAverage\BattingAverage\obj\Debug\BattingAverage.csproj.CoreCompileInputs.cache
+C:\Users\Ronad\source\repos\BattingAverage\BattingAverage\obj\Debug\BattingAverage.exe
+C:\Users\Ronad\source\repos\BattingAverage\BattingAverage\obj\Debug\BattingAverage.pdb
